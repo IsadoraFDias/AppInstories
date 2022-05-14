@@ -1,0 +1,10 @@
+.grade_post{
+    display: flex;
+    flex-direction: row;
+     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: space-between;
+    gap: 50px;
+  
+}

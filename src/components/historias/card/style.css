@@ -1,0 +1,8 @@
+.alinhamento_icones{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin-left: 50px;
+
+
+}
